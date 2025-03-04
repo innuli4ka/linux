@@ -1,2 +1,61 @@
 total 0
 -rw-r--r--. 1 ec2-user ec2-user 0 Mar  4 21:03 test.txt
+.
+└── test.txt
+
+0 directories, 1 file
+    1  whoami
+    2  pwd
+    3  sudo apt update && sudo apt install gh
+    4  sudo su apt update && sudo apt install gh
+    5  sudo su
+    6  df
+    7  df /
+    8  df -h /
+    9  df -h
+   10  df -h /
+   11  du -h /
+   12  du -sh /
+   13  git init
+   14  sudo yum git 
+   15  sudo yum install git -y
+   16  git init
+   17  git add
+   18  git add git@github.com:innuli4ka/linux.git
+   19  git add https://github.com/innuli4ka/linux.git
+   20  git init
+   21  git clone https://github.com/innuli4ka/linux.git
+   22  ll
+   23  git status
+   24  git add linux/text.txt
+   25  touch linux/test.txt
+   26  ll
+   27  git status
+   28  git commit
+   29  gits congif
+   30  gits config
+   31  git config
+   32  git config user.name innuli4ka
+   33  ll
+   34  cd linux/
+   35  cat text
+   36  ll
+   37  cat test.txt 
+   38  ll > ~/linux/test.txt 
+   39  ll
+   40  cat test.txt 
+   41  git commit -m
+   42  git commit -m "this is test 1"
+   43  git add test.txt 
+   44  git status
+   45  tree >> test.txt 
+   46  install tree
+   47  sudo apt update
+   48  sudo apt install tree
+   49  sudo apt install
+   50  sudo yum install tree
+   51  tree >> test.txt 
+   52  cat test.txt 
+   53  git commit -m "this is test 1"
+   54  git push
+   55  history >> test.txt 
