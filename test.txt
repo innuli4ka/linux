@@ -1,0 +1,2 @@
+total 0
+-rw-r--r--. 1 ec2-user ec2-user 0 Mar  4 21:03 test.txt
